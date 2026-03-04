@@ -1,0 +1,16 @@
+{
+  "name": "felipedeschamps_tabnews",
+  "version": "1.0.0",
+  "description": "Implementação do [TabNews](https://www.tabnews.com.br) para o [Curso.dev](https://curso.dev)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
