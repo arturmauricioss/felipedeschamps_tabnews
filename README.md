@@ -4,8 +4,8 @@ Implementação do [TabNews](https://www.tabnews.com.br) para o [Curso.dev](http
 
 Decidi não fazer o fork inicialmente pois quero entender melhor os arquivos de configuração um a um e vou implementando em seguida, 
 
-## Repositório do Clone TabNews
+## Repositório do clone-tabnews
 https://github.com/filipedeschamps/clone-tabnews?tab=readme-ov-file#clone-tabnews
 
-## Repositório do Tabnews
+## Repositório do tabnews
 https://github.com/filipedeschamps/tabnews.com.br
