@@ -9,3 +9,7 @@ https://github.com/filipedeschamps/clone-tabnews?tab=readme-ov-file#clone-tabnew
 
 ## Repositório do tabnews
 https://github.com/filipedeschamps/tabnews.com.br
+
+### Detalhes
+
+O curso não é para iniciante e foca no backend desde o incio diferente de outros que iniciei o que me da uma visão mais ampla das coisas
